@@ -14,22 +14,22 @@
     {
       "type": 2,
       "subType": 2,
-      "iconPath": "/building/factory/barrack.png"
+      "iconPath": "/building/barrack/barrack.png"
     },
     {
       "type": 2,
       "subType": 3,
-      "iconPath": "/building/factory/mine.png"
+      "iconPath": "/building/mine/mine.png"
     },
     {
       "type": 2,
       "subType": 4,
-      "iconPath": "/building/factory/lab.png"
+      "iconPath": "/building/lab/lab.png"
     },
     {
       "type": 2,
       "subType": 5,
-      "iconPath": "building/factory/farm.png"
+      "iconPath": "building/farm/farm.png"
     }
   ]
 }
