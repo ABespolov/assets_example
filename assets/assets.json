@@ -1,31 +1,33 @@
-[
-  {
-    "type": 1,
-    "iconPath": "/player/player.png"
-  },
-  {
-    "type": 2,
-    "subTypes": [
-      {
-        "type": 1,
-        "iconPath": "/building/factory/factory.png"
-      },
-      {
-        "type": 2,
-        "iconPath": "/building/factory/factory.png"
-      },
-      {
-        "type": 3,
-        "iconPath": "/building/factory/mine.png"
-      },
-      {
-        "type": 4,
-        "iconPath": "/building/factory/lab.png"
-      },
-      {
-        "type": 5,
-        "iconPath": "building/factory/farm.png"
-      }
-    ]
-  }
-]
+{
+  "gameObjects": [
+    {
+      "type": 1,
+      "iconPath": "/player/player.png"
+    },
+    {
+      "type": 2,
+      "subTypes": [
+        {
+          "type": 1,
+          "iconPath": "/building/factory/factory.png"
+        },
+        {
+          "type": 2,
+          "iconPath": "/building/factory/factory.png"
+        },
+        {
+          "type": 3,
+          "iconPath": "/building/factory/mine.png"
+        },
+        {
+          "type": 4,
+          "iconPath": "/building/factory/lab.png"
+        },
+        {
+          "type": 5,
+          "iconPath": "building/factory/farm.png"
+        }
+      ]
+    }
+  ]
+}
